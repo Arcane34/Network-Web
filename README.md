@@ -6,6 +6,8 @@ I wanted to create a dynamic model that allowed each node to randomly move in an
 the nodes connection with other nearby nodes, this created a visually appealing animation that shows a web of nodes 
 with a vast number of vertices that could prove useful as an animation on a website or other project.
 
+![](https://github.com/Arcane34/Network-Web/blob/main/NetworkWeb.gif)
+
 ## Possible Adaptations
 Possible adaptations include:
 - An editable mockup for a network model for a different project by editing certain values and removing motion from nodes
