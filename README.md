@@ -1,5 +1,5 @@
 # Network Web Simulation
-A javascript visualisation/animation of node connections and signal strengths based on distance
+A javascript visualisation/animation of node connections and signal strengths based on distance.
 
 The program is derived from network models that showcase graphs of nodes with a vast number of vertices.
 I wanted to create a dynamic model that allowed each node to randomly move in any direction and see the effect on
